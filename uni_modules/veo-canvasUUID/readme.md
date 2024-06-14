@@ -32,4 +32,4 @@ export default {
     
 ## 仓库
 > [dcloud 插件](https://ext.dcloud.net.cn/plugin?id=10311) https://ext.dcloud.net.cn/plugin?id=10311
-> [gitee](https://gitee.com/veeoo/veo-uniwebsocket) https://gitee.com/veeoo/veo-uniwebsocket
+> [github](https://github.com/jijacky/veo-canvasuuid) https://github.com/jijacky/veo-canvasuuid
